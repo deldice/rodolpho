@@ -1,0 +1,23 @@
+/* src/components/Projects.css */
+.projects {
+  background-color: #f7f7f7;
+  padding: 60px 0;
+}
+
+.container {
+  text-align: center;
+}
+
+.container h1 {
+  font-size: 32px;
+  margin: 0 0 20px;
+}
+
+.container p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+img {
+  border: 3px;
+
+}

@@ -1,0 +1,16 @@
+.about {
+ padding: 20px;
+  text-align: ;
+  
+}
+
+.about h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  margin-top: 0.5;
+}
+
+.about p {
+  font-size: 16px;
+  line-height: 1.6;
+}
